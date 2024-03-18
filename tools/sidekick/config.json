@@ -1,5 +1,11 @@
 {
   "project": "My Project",
-  "host": "www.mydomain.prod",
-  "plugins": []
+  "host": "main--wewealth--ivlim2023",
+  "plugins": [
+        {
+      "id": "foo",
+      "title": "Foo",
+      "url": "/tools/sidekick/foo.html"
+    }
+  ]
 }
