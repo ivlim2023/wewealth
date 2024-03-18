@@ -2,11 +2,7 @@
   "project": "My Project",
   "host": "main--wewealth--ivlim2023",
   "plugins": [
-        {
-      "id": "foo",
-      "title": "Foo",
-      "url": "/tools/sidekick/foo.html"
-    },
+       
     {
       "id": "generate-variations",
       "title": "Generate Variations",
